@@ -1,0 +1,37 @@
+{
+  "accuracy": 0.37026269984573684,
+  "macro_f1": 0.33782795541998467,
+  "majority_accuracy": 0.43444946714873317,
+  "majority_macro_f1": 0.1514342181785922,
+  "training_seconds": 52.961633699998856,
+  "classes": [
+    "연안복합",
+    "자망",
+    "채낚기연승낚시",
+    "통발"
+  ],
+  "params": {
+    "boosting_type": "gbdt",
+    "class_weight": "balanced",
+    "colsample_bytree": 1.0,
+    "importance_type": "gain",
+    "learning_rate": 0.05,
+    "max_depth": -1,
+    "min_child_samples": 50,
+    "min_child_weight": 0.001,
+    "min_split_gain": 0.0,
+    "n_estimators": 150,
+    "n_jobs": 4,
+    "num_leaves": 31,
+    "objective": "multiclass",
+    "random_state": 42,
+    "reg_alpha": 0.0,
+    "reg_lambda": 0.0,
+    "subsample": 1.0,
+    "subsample_for_bin": 200000,
+    "subsample_freq": 0,
+    "verbosity": -1,
+    "deterministic": true,
+    "force_col_wise": true
+  }
+}

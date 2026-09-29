@@ -1,0 +1,30 @@
+# Local Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Original datasets
+/vpass*/
+/datasets/
+/data/
+*.xlsx
+*.parquet
+*.feather
+
+# Row-level derived datasets and raw-data previews
+/outputs/*.csv
+/outputs/data_check.txt
+/outputs/feature_check.txt
+/outputs/metrics/largest_steps.csv
+
+# Local secrets and OS files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+
+# Track source, tests, reports, application documents, aggregate metrics,
+# figures and the trained model. Keep actual datasets local.

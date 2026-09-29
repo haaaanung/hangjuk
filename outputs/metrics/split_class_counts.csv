@@ -1,0 +1,9 @@
+﻿fishing_code,rows,vessels,split
+연안복합,1375197,2914,train
+자망,1156988,2018,train
+채낚기연승낚시,141619,125,train
+통발,506028,840,train
+연안복합,307257,736,validation
+자망,265686,502,validation
+채낚기연승낚시,39259,33,validation
+통발,95031,204,validation

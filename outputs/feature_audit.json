@@ -1,0 +1,43 @@
+{
+  "files": [
+    {
+      "source_file_id": 1,
+      "source_file": "vpass_1월 데이터.csv",
+      "feature_rows": 497942
+    },
+    {
+      "source_file_id": 2,
+      "source_file": "vpass_2월 데이터.csv",
+      "feature_rows": 479288
+    },
+    {
+      "source_file_id": 3,
+      "source_file": "vpass_3월 데이터.csv",
+      "feature_rows": 657292
+    },
+    {
+      "source_file_id": 4,
+      "source_file": "vpass_4월 데이터.csv",
+      "feature_rows": 717294
+    },
+    {
+      "source_file_id": 5,
+      "source_file": "vpass_5월 데이터.csv",
+      "feature_rows": 761846
+    },
+    {
+      "source_file_id": 6,
+      "source_file": "vpass_6월 데이터.csv",
+      "feature_rows": 773403
+    }
+  ],
+  "coordinate_bounds": [
+    123.21835,
+    30.000171666666667,
+    134.46040833333333,
+    39.750205
+  ],
+  "excluded_rows": 4,
+  "elapsed_seconds": 650.9824439000004,
+  "crs": "No CRS metadata; lon/lat inferred from coordinate ranges; spherical Haversine."
+}

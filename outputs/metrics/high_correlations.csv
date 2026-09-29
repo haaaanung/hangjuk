@@ -1,0 +1,5 @@
+feature_a,feature_b,pearson_r
+total_distance_m,segment_chord_sum_m,0.9659455107625823
+mean_direction_change_deg,turn_rate_45,0.9220801619062722
+turn_count_45,total_turn_deg,0.9860127753154692
+duplicate_ratio,zero_step_ratio,0.9586864241489342

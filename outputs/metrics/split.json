@@ -1,0 +1,27 @@
+{
+  "seed": 42,
+  "train_rows": 3179832,
+  "valid_rows": 707233,
+  "train_vessels": 5897,
+  "valid_vessels": 1475,
+  "vessel_overlap": 0,
+  "features": [
+    "total_distance_m",
+    "segment_chord_sum_m",
+    "straightness",
+    "mean_direction_change_deg",
+    "max_direction_change_deg",
+    "turn_count_45",
+    "turn_rate_45",
+    "total_turn_deg",
+    "spatial_spread_m",
+    "bbox_width_m",
+    "bbox_height_m",
+    "num_segments",
+    "num_points",
+    "duplicate_ratio",
+    "zero_step_ratio",
+    "num_direction_changes",
+    "max_step_m"
+  ]
+}

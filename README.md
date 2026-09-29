@@ -193,3 +193,7 @@ STEP 5~6 완료 조건:
 API 동작 확인: [GroupShuffleSplit 공식 문서](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GroupShuffleSplit.html),
 [LightGBM 파라미터 공식 문서](https://lightgbm.readthedocs.io/en/latest/Parameters.html).
 Git에는 코드·보고서·참가신청서(PDF/HWP)·집계 지표·그림·학습 모델을 포함한다. 원본 항적 CSV, 사고 Excel, 행 단위 파생 table 및 원본 행 미리보기는 `.gitignore`로 제외하며 로컬에서 별도로 준비한다.
+
+## 차주 진행 계획
+
+[3주차 성능 개선 계획](WEEK3_PLAN.md)에 baseline 비교 실험, 코드 수정 위치, 평가 원칙, 일정 및 결과 기록 양식을 정리했다. 해당 문서는 실험 전 계획이며 성능 개선 결과를 의미하지 않는다.

@@ -1,0 +1,16 @@
+{
+  "budgets": [
+    12,
+    24
+  ],
+  "threads": 4,
+  "lightgbm": "4.7.0",
+  "source": "d3540b74f5e2332813121f64486a94d9d5bc2b32384cc3b477c0928a4bb6a699",
+  "code": {
+    "14_compact_model.py": "11e0d63912c4f4dd654c14dcb06211ed8a0c0928412aa0fc1d5725d0b62117dd",
+    "src/compact_features.py": "260511acc7d6c75c0ad73fb057d97607c1a4c1e2d89402646c8d1b3962ccb302",
+    "11_refine_decisions.py": "8e36173b4191ed978344d898297945288dc4d26092fe8bdc834bd0d2c4639ae7",
+    "04_improve.py": "fe9815de37a00f42460adf34f27f814619ab83df555a74fe7c4cad66d2e036d5",
+    "src/improved_training.py": "f279ddad02f0384a226dadbf80f40dfc1989afbc07fc0c61a90fbf5d968a4959"
+  }
+}

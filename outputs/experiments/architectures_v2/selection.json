@@ -1,0 +1,13 @@
+{
+  "accepted": true,
+  "candidate": "catboost",
+  "alternative_weight": 0.5,
+  "cv_accuracy": 0.5943449207558881,
+  "cv_macro_f1": 0.5697680942540316,
+  "control_accuracy": 0.5897374420415499,
+  "control_macro_f1": 0.5648660416236969,
+  "candidates": [
+    "catboost",
+    "extra_trees"
+  ]
+}

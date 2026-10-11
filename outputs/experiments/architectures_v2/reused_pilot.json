@@ -1,0 +1,5 @@
+{
+  "source": "outputs\\experiments\\architectures_v1",
+  "probability_sha256": "510c18b2c221429ec33cc817a6bdf5e473bc0f2930f833321dec704ab8f90dfa",
+  "reason": "Only ExtraTrees settings changed; CatBoost inputs/settings unchanged"
+}

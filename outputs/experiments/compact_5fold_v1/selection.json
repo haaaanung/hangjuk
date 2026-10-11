@@ -1,0 +1,8 @@
+{
+  "accepted": false,
+  "candidate": "compact_spatial_regularized",
+  "cv_accuracy": 0.5918615700140659,
+  "cv_macro_f1": 0.5697479723293354,
+  "folds": 5,
+  "criterion": "Both mean five-fold vessel CV metrics must improve over the 163-feature control"
+}

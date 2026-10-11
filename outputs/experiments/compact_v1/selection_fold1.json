@@ -1,0 +1,9 @@
+{
+  "feature_groups": 153,
+  "inspected_groups": 40,
+  "positive_groups": 19,
+  "selector_fit_vessels": 3145,
+  "importance_vessels": 787,
+  "vessel_overlap": 0,
+  "method": "Train-only Spearman redundancy groups; group permutation on separate inner training vessels"
+}

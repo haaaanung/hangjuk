@@ -1,0 +1,29 @@
+{
+  "sample_rows": 1200,
+  "source_alignment_and_recomputation": "passed",
+  "two_point_segment_fraction": 0.14895833333333333,
+  "all_features_recomputed": [
+    "total_distance_m",
+    "segment_chord_sum_m",
+    "straightness",
+    "mean_direction_change_deg",
+    "max_direction_change_deg",
+    "turn_count_45",
+    "turn_rate_45",
+    "total_turn_deg",
+    "spatial_spread_m",
+    "bbox_width_m",
+    "bbox_height_m",
+    "num_segments",
+    "num_points",
+    "duplicate_ratio",
+    "zero_step_ratio",
+    "num_direction_changes",
+    "max_step_m"
+  ],
+  "training_rows": 3179832,
+  "small_extent_fraction": 0.5297254697732459,
+  "no_turn_defined_fraction": 0.16645816508545105,
+  "apparent_active_fraction": 0.40592773454698233,
+  "zero_step_fraction_median": 0.26213592290878296
+}

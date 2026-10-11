@@ -1,0 +1,16 @@
+{
+  "small_extent": {
+    "rows": 1684438,
+    "original_distance_median_m": 15.160603523254395,
+    "simplified_distance_median_m": 3.8931589126586914,
+    "original_mean_turn_median_deg": 115.13914489746094,
+    "simplified_turn_defined_fraction": 0.20048289102953032
+  },
+  "apparent_active": {
+    "rows": 1290782,
+    "original_distance_median_m": 6674.73193359375,
+    "simplified_distance_median_m": 6657.4248046875,
+    "original_mean_turn_median_deg": 40.76436996459961,
+    "simplified_turn_defined_fraction": 0.9809882691267774
+  }
+}

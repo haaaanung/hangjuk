@@ -1,11 +1,58 @@
-# 항적수사대 · 2주차
+# 항적수사대 · 선박 업종 분류
+
+## 최종 모델과 평가
+
+최종 체크포인트는 `outputs/experiments/final_v1/model.txt`입니다. 전체 검증을 완료했으며,
+실측 지표·선정 근거·목표 미달 원인은 **[최종 모델 개선 보고서](MODEL_IMPROVEMENT_REPORT.md)**에 정리했습니다.
+채택한 설정만 재학습하려면 다음 명령을 사용합니다. 이미 학습된 모델을 사용할 때 재학습은 필요하지 않습니다.
+
+```powershell
+.\.venv\Scripts\python.exe -X utf8 -u 10_train_improved.py --run-id control_retrain --config configs/final_training.json
+```
+
+최종 재현 설정은 `configs/final_training.json`입니다. 후보 실험 기록과 단계별 실행은 [학습 안내](EXPERIMENTS_GUIDE.md)를 참고하세요.
+
+### 선박 단위 5-fold 평가와 공간 임베딩
+
+```powershell
+.\.venv\Scripts\python.exe -X utf8 -u 14_compact_model.py --stage all
+```
+
+기존 개발 holdout을 분리한 상태에서 학습 선박을 클래스별로 5분할합니다. 각 평가 fold의 선박은 해당 모델의 학습·특징 선택·공간 임베딩 학습에서 제외됩니다. 완료된 fold는 체크포인트를 재사용합니다.
+
+- 결과: `outputs/experiments/compact_5fold_v1/cv_summary.csv`의 5-fold 평균·표준편차와 전체 OOF 성능.
+- 특징 확인: 같은 폴더의 `ranking_fold1.csv`~`ranking_fold5.csv`에서 `selected=True`인 24개와 한국어 설명.
+- 공간 임베딩: `src/spatial_embedding.py`. 현재 위치와 과거 정박 유사 위치를 학습 지역 8곳과의 유사도로 표현한 16개 값 및 결측 여부 2개.
+- 채택 조건: 5-fold 평균 Accuracy·Macro-F1이 모두 기준을 넘은 후보만 기존 개발 holdout에서 평가합니다. 최종 채택 여부와 한계는 위 보고서에 기록합니다.
+
+## 성능 개선 모델
+
+아래는 이전 `04_improve.py` 실험 기록이다. 현재 위치와 **이전 날짜까지만의 선박 활동 이력**을 추가했다.
+학습 선박 내부 3-fold 교차검증으로 후보를 선택하고, 기존과 동일한 검증 선박에서 비교한다.
+특징 정의·평가 조건·실측 결과는 [성능 개선 보고서](IMPROVEMENT_REPORT.md)를 참고한다.
+
+동일한 검증 선박 1,475척·707,233개 관측에서 **Accuracy 37.03%→58.87%, Macro-F1 0.3378→0.5786**으로 개선됐다.
+선박별 평가 가중치를 동일하게 한 Macro-F1도 0.2863→0.5178로 올랐다.
+과거 이력이 없는 첫 관측일의 Macro-F1은 0.3654로, 이력 보유 관측보다 낮다. 기존 개발용 holdout의 결과이며 미래 기간 성능을 보장하지 않는다.
+
+```powershell
+.\.venv\Scripts\python.exe -X utf8 -m unittest discover -s tests -v
+.\.venv\Scripts\python.exe -X utf8 -u 04_improve.py --run-id context_v2
+```
+
+기존 `outputs/feature_df.csv`와 원본 CSV, baseline 모델·분할 파일이 필요하다.
+결과는 `outputs/experiments/<run-id>/`에 저장하며, 이미 존재하는 실험 폴더는 덮어쓰지 않는다.
+위치는 원본에서 추출하고, 이후 실행은 입력·코드가 동일하면 `outputs/cache/`의 특징 캐시를 재사용한다.
+최종 모델은 `model.txt`, 입력·클래스 순서는 `model_metadata.json`, 비교 점수는 `metrics.json`에 있다.
+
+## 2주차 기준모형 기록
 
 공간 특징을 검산하고, 보지 못한 선박의 `fishing_code`를 분류하는 LightGBM 기준모형을 만든다.
 원본→항적 확인→특징→EDA→선박 분할→학습→평가를 네 명 모두 실행한다.
 이상탐지 구현은 4주차 범위이므로 포함하지 않았다.
 
-현재 전체 실행 결과: **3,887,065행·17개 특징, 선박 교집합 0, Accuracy 37.03%, Macro-F1 0.3378**.
-다수 클래스 기준 Accuracy 43.44%보다 낮다. 현재 한계를 포함한 해석은 [2주차 분석 기록](WEEK2_REPORT.md)에 있다.
+2주차 기준모형 결과: **3,887,065행·17개 특징, 선박 교집합 0, Accuracy 37.03%, Macro-F1 0.3378**.
+다수 클래스 기준 Accuracy 43.44%보다 낮다. 당시 한계를 포함한 해석은 [2주차 분석 기록](WEEK2_REPORT.md)에 있다.
 
 ## 실행
 
@@ -196,4 +243,4 @@ Git에는 코드·보고서·참가신청서(PDF/HWP)·집계 지표·그림·�
 
 ## 차주 진행 계획
 
-[3주차 성능 개선 계획](WEEK3_PLAN.md)에 baseline 비교 실험, 코드 수정 위치, 평가 원칙, 일정 및 결과 기록 양식을 정리했다. 해당 문서는 실험 전 계획이며 성능 개선 결과를 의미하지 않는다.
+[3주차 성능 개선 계획](WEEK3_PLAN.md)에 baseline 비교 실험, 코드 수정 위치, 평가 원칙, 일정 및 결과 기록 양식을 정리했다. 해당 문서는 당시의 실험 전 계획이며, 실제 구현·평가 결과는 [성능 개선 보고서](IMPROVEMENT_REPORT.md)에 있다.

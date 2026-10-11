@@ -1,0 +1,12 @@
+{
+  "members": [
+    "control",
+    "profile"
+  ],
+  "history_strength": 0.8,
+  "history_warmup_days": 3,
+  "cv_accuracy": 0.5984511069801366,
+  "cv_macro_f1": 0.5768197725251599,
+  "criterion": "Both mean CV metrics >= raw control; maximize their arithmetic mean",
+  "note": "CV is used for selection, so these are selection scores, not independent test scores"
+}

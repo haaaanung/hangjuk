@@ -1,0 +1,18 @@
+{
+  "adopted": false,
+  "retained_model": "outputs/experiments/final_v1/model.txt",
+  "reason": "CV improvement did not transfer to development validation; Macro-F1 decreased.",
+  "control": {
+    "accuracy": 0.617720044172147,
+    "macro_f1": 0.6103701668697259,
+    "vessel_equal_accuracy": 0.5734438543058445,
+    "vessel_equal_macro_f1": 0.541329557842414
+  },
+  "candidate": {
+    "accuracy": 0.6177723607354295,
+    "macro_f1": 0.6027356930278936,
+    "vessel_equal_accuracy": 0.5767840464167298,
+    "vessel_equal_macro_f1": 0.5438291450691499
+  },
+  "independent_test": false
+}

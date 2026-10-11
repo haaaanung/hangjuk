@@ -1,0 +1,27 @@
+{
+  "seconds": 156.29318720000447,
+  "train_rows": 696562,
+  "scores": [
+    {
+      "alternative_weight": 0.0,
+      "accuracy": 0.5960858272567487,
+      "macro_f1": 0.5699662747482025,
+      "candidate": "extra_trees",
+      "fold": 1
+    },
+    {
+      "alternative_weight": 0.5,
+      "accuracy": 0.5977576152679909,
+      "macro_f1": 0.5619967767640088,
+      "candidate": "extra_trees",
+      "fold": 1
+    },
+    {
+      "alternative_weight": 1.0,
+      "accuracy": 0.5611480994732736,
+      "macro_f1": 0.4949985152871968,
+      "candidate": "extra_trees",
+      "fold": 1
+    }
+  ]
+}

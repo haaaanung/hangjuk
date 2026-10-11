@@ -1,0 +1,41 @@
+{
+  "parameters": {
+    "catboost": {
+      "iterations": 600,
+      "depth": 6,
+      "learning_rate": 0.08,
+      "l2_leaf_reg": 15,
+      "loss_function": "MultiClass",
+      "boosting_type": "Plain",
+      "bootstrap_type": "Bayesian",
+      "bagging_temperature": 0.5,
+      "random_strength": 1.0,
+      "border_count": 128,
+      "random_seed": 42,
+      "allow_writing_files": false,
+      "verbose": false
+    },
+    "extra_trees": {
+      "n_estimators": 192,
+      "max_depth": 20,
+      "min_samples_leaf": 256,
+      "max_features": 0.8,
+      "random_state": 42
+    }
+  },
+  "threads": 4,
+  "candidates": [
+    "catboost",
+    "extra_trees"
+  ],
+  "catboost_version": "1.2.10",
+  "sklearn_version": "1.9.1",
+  "code": {
+    "13_compare_architectures.py": "2394495ca5df5190f00b986896f2d99032be99085fcec5af6a0077da2edabc3d",
+    "src/alternative_models.py": "98cf89e9fe578c92ec54c4fda0d6bae7836187d587417b081e4f05e296c28b1a",
+    "11_refine_decisions.py": "8e36173b4191ed978344d898297945288dc4d26092fe8bdc834bd0d2c4639ae7",
+    "04_improve.py": "fe9815de37a00f42460adf34f27f814619ab83df555a74fe7c4cad66d2e036d5",
+    "src/improved_training.py": "f279ddad02f0384a226dadbf80f40dfc1989afbc07fc0c61a90fbf5d968a4959"
+  },
+  "source_config": "d3540b74f5e2332813121f64486a94d9d5bc2b32384cc3b477c0928a4bb6a699"
+}

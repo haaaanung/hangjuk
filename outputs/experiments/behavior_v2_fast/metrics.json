@@ -1,0 +1,20 @@
+{
+  "previous_v1": {
+    "accuracy": 0.5886942492785263,
+    "macro_f1": 0.5786485196939959,
+    "vessel_equal_accuracy": 0.5564204068196389,
+    "vessel_equal_macro_f1": 0.517808878061519,
+    "training_seconds": 364.6887884000007,
+    "candidate": "history_sqrt"
+  },
+  "selected": {
+    "accuracy": 0.6054807962863724,
+    "macro_f1": 0.5992586913656615,
+    "vessel_equal_accuracy": 0.5670425363043559,
+    "vessel_equal_macro_f1": 0.533782411741331
+  },
+  "candidate": "behavior_sqrt",
+  "training_seconds": 415.8115270999988,
+  "delta_accuracy": 0.016786547007846098,
+  "delta_macro_f1": 0.020610171671665567
+}

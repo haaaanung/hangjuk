@@ -1,0 +1,15 @@
+{
+  "seed": 71,
+  "model": "context_v1",
+  "sample_unit": "uniform random observation rows",
+  "train": {
+    "sample_rows": 50000,
+    "accuracy": 0.93762,
+    "macro_f1": 0.9485230290627077
+  },
+  "validation": {
+    "sample_rows": 50000,
+    "accuracy": 0.5865,
+    "macro_f1": 0.5794491418061316
+  }
+}

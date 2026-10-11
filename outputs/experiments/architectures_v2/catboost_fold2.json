@@ -1,0 +1,27 @@
+{
+  "seconds": 313.7090787000052,
+  "train_rows": 696548,
+  "scores": [
+    {
+      "alternative_weight": 0.0,
+      "accuracy": 0.5799896786902692,
+      "macro_f1": 0.5496812367279487,
+      "candidate": "catboost",
+      "fold": 2
+    },
+    {
+      "alternative_weight": 0.5,
+      "accuracy": 0.5848474870818525,
+      "macro_f1": 0.5648641171324306,
+      "candidate": "catboost",
+      "fold": 2
+    },
+    {
+      "alternative_weight": 1.0,
+      "accuracy": 0.5737733066778119,
+      "macro_f1": 0.5548232239371291,
+      "candidate": "catboost",
+      "fold": 2
+    }
+  ]
+}

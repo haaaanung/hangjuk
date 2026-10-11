@@ -1,0 +1,20 @@
+{
+  "control": {
+    "accuracy": 0.617720044172147,
+    "macro_f1": 0.6103701668697259,
+    "vessel_equal_accuracy": 0.5734438543058445,
+    "vessel_equal_macro_f1": 0.541329557842414
+  },
+  "alternative": {
+    "accuracy": 0.6033923756385802,
+    "macro_f1": 0.5902783187507683,
+    "vessel_equal_accuracy": 0.566444686111029,
+    "vessel_equal_macro_f1": 0.53510737570203
+  },
+  "selected": {
+    "accuracy": 0.6177723607354295,
+    "macro_f1": 0.6027356930278936,
+    "vessel_equal_accuracy": 0.5767840464167298,
+    "vessel_equal_macro_f1": 0.5438291450691499
+  }
+}

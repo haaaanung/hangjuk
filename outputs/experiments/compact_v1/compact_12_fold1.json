@@ -1,0 +1,24 @@
+{
+  "candidate": "compact_12",
+  "fold": 1,
+  "features": 12,
+  "feature_names": [
+    "behavior_past_mean_active_lon",
+    "behavior_past_mean_quiet_lon",
+    "center_lat",
+    "center_lon",
+    "behavior_past_mean_active_straightness",
+    "past_mean_center_lat",
+    "behavior_past_mean_active_hour_0",
+    "behavior_past_mean_quiet_lat",
+    "past_mean_daily_lon_std",
+    "behavior_past_mean_active_turn_rate_45",
+    "recent30_active_lat",
+    "past_std_straightness"
+  ],
+  "seconds": 58.316285900000366,
+  "train_sample_accuracy": 0.9158666666666667,
+  "train_sample_macro_f1": 0.9299626414086605,
+  "accuracy": 0.5756885040044606,
+  "macro_f1": 0.5397319618678241
+}

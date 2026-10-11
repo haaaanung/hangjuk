@@ -1,0 +1,29 @@
+{
+  "control": {
+    "accuracy": 0.617720044172147,
+    "macro_f1": 0.6103701668697259,
+    "vessel_equal_accuracy": 0.5734438543058445,
+    "vessel_equal_macro_f1": 0.541329557842414
+  },
+  "selected_without_history": {
+    "accuracy": 0.6098145872718044,
+    "macro_f1": 0.6022514909951969,
+    "vessel_equal_accuracy": 0.5704755246628347,
+    "vessel_equal_macro_f1": 0.5395208183403519
+  },
+  "selected": {
+    "accuracy": 0.6129210599618513,
+    "macro_f1": 0.6069688082814714,
+    "vessel_equal_accuracy": 0.5789841032392271,
+    "vessel_equal_macro_f1": 0.549717773349256
+  },
+  "classes": [
+    "연안복합",
+    "자망",
+    "채낚기연승낚시",
+    "통발"
+  ],
+  "train_rows": 1044833,
+  "valid_rows": 707233,
+  "vessel_overlap": 0
+}

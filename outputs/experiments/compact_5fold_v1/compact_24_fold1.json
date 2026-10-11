@@ -1,0 +1,16 @@
+{
+  "candidate": "compact_24",
+  "fold": 1,
+  "features": 24,
+  "train_rows": 836080,
+  "valid_rows": 660545,
+  "vessel_overlap": 0,
+  "train_sample_accuracy": 0.9285666666666667,
+  "train_sample_macro_f1": 0.9403758675433611,
+  "accuracy": 0.5523121059125419,
+  "macro_f1": 0.5068630682100107,
+  "vessel_equal_accuracy": 0.5519673797013929,
+  "vessel_equal_macro_f1": 0.4860601129128261,
+  "macro_f1_gap": 0.4335127993333504,
+  "evaluation_and_optional_fit_seconds": 139.42415239999536
+}

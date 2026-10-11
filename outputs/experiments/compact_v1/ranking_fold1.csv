@@ -1,0 +1,41 @@
+﻿feature,meaning,group_members,training_gain,permutation_drop,permutation_std
+behavior_past_mean_active_lon,이전 날짜까지 평균: 활동 조건 관측의 경도,behavior_past_mean_active_lon|past_mean_center_lon|recent30_active_lon,107480.97045516968,0.02542321422590793,6.195018565746668e-06
+behavior_past_mean_quiet_lon,이전 날짜까지 평균: 공간 분산 20m 미만 관측의 경도,behavior_past_mean_quiet_lon,141427.75685882568,0.015157032629843248,0.0010542565028084372
+center_lat,항적 평균 위도,center_lat,126668.79654312134,0.015016359436886395,0.00040962134153610386
+center_lon,항적 평균 경도,center_lon,128181.783908844,0.00856672911320594,0.0002643535298452737
+behavior_past_mean_active_straightness,이전 날짜까지 평균: 활동 조건 관측의 직선성,behavior_past_mean_active_straightness,142798.601688385,0.0055510607189589445,0.0006917711186308351
+past_mean_center_lat,이전 날짜까지 평균: 항적 평균 위도,past_mean_center_lat|behavior_past_mean_active_lat,63047.271350860596,0.004576698851411598,0.0007226189952542206
+behavior_past_mean_active_hour_0,이전 날짜까지 평균: 활동 조건 관측의 0시 이상 4시 미만 관측 비율,behavior_past_mean_active_hour_0,26112.54864883423,0.0034545347478380783,1.1741513392005132e-05
+behavior_past_mean_quiet_lat,이전 날짜까지 평균: 공간 분산 20m 미만 관측의 위도,behavior_past_mean_quiet_lat,108070.71366119385,0.0029731943591991827,0.00024048180412428177
+past_mean_daily_lon_std,이전 날짜까지 평균: 하루 경도 표준편차,past_mean_daily_lon_std,86462.57134628296,0.0025231405035446852,0.000654571497269052
+behavior_past_mean_active_turn_rate_45,이전 날짜까지 평균: 활동 조건 관측의 45도 이상 회전 비율,behavior_past_mean_active_turn_rate_45,48675.67739486694,0.0013517731085313511,0.0011074919265588457
+recent30_active_lat,이전 30일 평균: 활동 조건 관측의 위도,recent30_active_lat,51908.5524559021,0.0012151124952351489,0.0008034409955209321
+past_std_straightness,이전 날짜까지 표준편차: 직선성,past_std_straightness,29126.96421432495,0.001072528326578781,0.0013112106610492225
+past_mean_hour_cos,이전 날짜까지 평균: 시간대 cos,past_mean_hour_cos,31488.39609146118,0.001035313501588142,0.0008838138076390223
+behavior_past_std_active_turn_rate_45,이전 날짜까지 표준편차: 활동 조건 관측의 45도 이상 회전 비율,behavior_past_std_active_turn_rate_45,20671.045261383057,0.0007080023184462547,0.0003226302211885024
+past_std_daily_lon_std,이전 날짜까지 표준편차: 하루 경도 표준편차,past_std_daily_lon_std,31197.1888961792,0.0005978622598793448,0.00032771019438693205
+behavior_past_mean_active_duplicate_ratio,이전 날짜까지 평균: 활동 조건 관측의 중복 좌표 비율,behavior_past_mean_active_duplicate_ratio,42378.55884170532,0.0005401533791789537,0.00014561041404853592
+behavior_past_std_smooth_straightness,이전 날짜까지 표준편차: 단순화한 경로 직선성,behavior_past_std_smooth_straightness,20734.334035873413,0.000370212830285932,3.744558074847415e-05
+past_std_daily_active_count,이전 날짜까지 표준편차: 하루 활동 조건 관측 수,past_std_daily_active_count,40367.80439376831,0.00028686832847413246,0.00013738980831179415
+past_mean_num_segments,이전 날짜까지 평균: 선분 수,past_mean_num_segments,35457.41572189331,0.00016617144908742665,0.000720182868277297
+behavior_past_std_active_lon,이전 날짜까지 표준편차: 활동 조건 관측의 경도,behavior_past_std_active_lon,33944.21872711182,-1.5590197710357856e-05,7.151972378061089e-05
+behavior_past_mean_smooth_mean_turn_deg,이전 날짜까지 평균: 단순화한 경로 평균 회전각,behavior_past_mean_smooth_mean_turn_deg,20684.09592437744,-0.00011790900807495674,0.0003651712750571967
+past_mean_hour_sin,이전 날짜까지 평균: 시간대 sin,past_mean_hour_sin,33621.94520187378,-0.00019760708687255324,0.0006004452901937629
+recent7_active_lat,이전 7일 평균: 활동 조건 관측의 위도,recent7_active_lat,25401.822952270508,-0.00024560220652714015,0.0008142317670769561
+recent7_active_lon,이전 7일 평균: 활동 조건 관측의 경도,recent7_active_lon,20759.66339111328,-0.00024695008786079775,0.0003897874739888785
+behavior_past_mean_active_hour_4,이전 날짜까지 평균: 활동 조건 관측의 4시 이상 8시 미만 관측 비율,behavior_past_mean_active_hour_4,51882.68896865845,-0.00033007937517459673,0.0007350144909246126
+behavior_past_std_active_duplicate_ratio,이전 날짜까지 표준편차: 활동 조건 관측의 중복 좌표 비율,behavior_past_std_active_duplicate_ratio,44775.433153152466,-0.0005734243555459151,0.00018954615887573079
+past_mean_daily_active_count,이전 날짜까지 평균: 하루 활동 조건 관측 수,past_mean_daily_active_count,102322.64976882935,-0.001075258462315598,5.327725392401117e-05
+behavior_past_mean_active_hour_12,이전 날짜까지 평균: 활동 조건 관측의 12시 이상 16시 미만 관측 비율,behavior_past_mean_active_hour_12,30149.81234741211,-0.00115359192854253,0.0006793990411426143
+behavior_past_mean_active_hour_16,이전 날짜까지 평균: 활동 조건 관측의 16시 이상 20시 미만 관측 비율,behavior_past_mean_active_hour_16,33141.29532623291,-0.0012389457199799558,0.0004808602927395267
+behavior_past_mean_active_mean_direction_change_deg,이전 날짜까지 평균: 활동 조건 관측의 평균 방향 변화각,behavior_past_mean_active_mean_direction_change_deg,45741.43146896362,-0.0014845704753307931,0.00018870887728472674
+past_std_bbox_width_m,이전 날짜까지 표준편차: 항적 영역 폭(m),past_std_bbox_width_m,41716.55167770386,-0.001516618991159513,0.00012937788448352805
+past_mean_duplicate_ratio,이전 날짜까지 평균: 중복 좌표 비율,past_mean_duplicate_ratio,26934.981700897217,-0.0016817693899870978,0.00016683416216167757
+past_std_zero_step_ratio,이전 날짜까지 표준편차: 이동거리 0인 인접점 비율,past_std_zero_step_ratio,22014.526767730713,-0.0020998411195692346,0.00038675097651846846
+past_std_num_direction_changes,이전 날짜까지 표준편차: 유효 방향 변화 수,past_std_num_direction_changes,22822.040576934814,-0.00213740294681386,0.000625768925258785
+past_mean_daily_lat_std,이전 날짜까지 평균: 하루 위도 표준편차,past_mean_daily_lat_std,62176.47441864014,-0.002211316680519715,0.0002881032473884271
+behavior_past_std_active_lat,이전 날짜까지 표준편차: 활동 조건 관측의 위도,behavior_past_std_active_lat,386475.89490127563,-0.003394564916776477,0.00040825437933500464
+past_std_center_lat,이전 날짜까지 표준편차: 항적 평균 위도,past_std_center_lat,438664.787147522,-0.0034988048271613614,0.00031027347684142725
+behavior_past_mean_active_hour_20,이전 날짜까지 평균: 활동 조건 관측의 20시 이상 24시 미만 관측 비율,behavior_past_mean_active_hour_20,34448.22425842285,-0.0035223528142832583,0.0004427403686692033
+past_mean_daily_observation_count,이전 날짜까지 평균: 하루 관측 수,past_mean_daily_observation_count,39885.24518203735,-0.00576474779744629,2.46993944530427e-05
+behavior_past_std_active_straightness,이전 날짜까지 표준편차: 활동 조건 관측의 직선성,behavior_past_std_active_straightness,48471.39223098755,-0.008757912338817508,0.0005894787945712743

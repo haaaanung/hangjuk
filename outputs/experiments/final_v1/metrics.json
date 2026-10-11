@@ -1,0 +1,23 @@
+{
+  "baseline": {
+    "accuracy": 0.6054807962863724,
+    "macro_f1": 0.5992586913656615,
+    "vessel_equal_accuracy": 0.5670425363043559,
+    "vessel_equal_macro_f1": 0.533782411741331
+  },
+  "selected": {
+    "accuracy": 0.617720044172147,
+    "macro_f1": 0.6103701668697259,
+    "vessel_equal_accuracy": 0.5734438543058445,
+    "vessel_equal_macro_f1": 0.541329557842414
+  },
+  "classes": [
+    "연안복합",
+    "자망",
+    "채낚기연승낚시",
+    "통발"
+  ],
+  "valid_rows": 707233,
+  "vessel_overlap": 0,
+  "independent_test": false
+}

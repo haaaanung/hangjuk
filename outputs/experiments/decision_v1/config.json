@@ -1,0 +1,12 @@
+{
+  "11_refine_decisions.py": "8e36173b4191ed978344d898297945288dc4d26092fe8bdc834bd0d2c4639ae7",
+  "src\\decision_adjustment.py": "c95e0f9c9ee28044cb8e66f6e45d2c6b3fcaf55ee10c0af613f60c8431da0b84",
+  "src\\prediction_history.py": "44bf3b3f697e850ef7c34c544513a7add386a2260678f0ae13f44425ffce15e8",
+  "src\\improved_training.py": "f279ddad02f0384a226dadbf80f40dfc1989afbc07fc0c61a90fbf5d968a4959",
+  "04_improve.py": "fe9815de37a00f42460adf34f27f814619ab83df555a74fe7c4cad66d2e036d5",
+  "outputs\\experiments\\improved_v1\\config.json": "d3540b74f5e2332813121f64486a94d9d5bc2b32384cc3b477c0928a4bb6a699",
+  "outputs\\experiments\\improved_v1\\model_control.txt": "7f3650a4223d7167c59b62032cda8b9fc2095de819df1f31237cd850f04879a2",
+  "outputs\\cache\\improved_training\\improved_v1\\control_fold1.npy": "a89da0a09c60aadf3c8d6bcae688bf9c325732bbb49a6df7f8bbd285ef7af8e8",
+  "outputs\\cache\\improved_training\\improved_v1\\control_fold2.npy": "28e921dacee729473301a0d0e138fd807bf2f329e7456b5dffc6d751c6401d89",
+  "outputs\\cache\\improved_training\\improved_v1\\control_fold3.npy": "2913780c865de27717d64c9c6af13e16625489b6f0ad9569c174ae05655bdc79"
+}

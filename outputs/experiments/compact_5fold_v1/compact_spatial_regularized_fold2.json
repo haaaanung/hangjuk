@@ -1,0 +1,16 @@
+{
+  "candidate": "compact_spatial_regularized",
+  "fold": 2,
+  "features": 42,
+  "train_rows": 833601,
+  "valid_rows": 593502,
+  "vessel_overlap": 0,
+  "train_sample_accuracy": 0.7875666666666666,
+  "train_sample_macro_f1": 0.8035725354874649,
+  "accuracy": 0.6187258004185328,
+  "macro_f1": 0.5874353938434177,
+  "vessel_equal_accuracy": 0.5852122549153882,
+  "vessel_equal_macro_f1": 0.5325427720039742,
+  "macro_f1_gap": 0.21613714164404718,
+  "evaluation_and_optional_fit_seconds": 90.20948550000321
+}

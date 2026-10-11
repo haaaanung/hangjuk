@@ -18,6 +18,13 @@ __pycache__/
 /outputs/data_check.txt
 /outputs/feature_check.txt
 /outputs/metrics/largest_steps.csv
+/outputs/cache/
+/outputs/experiments/**/validation_predictions.csv
+/outputs/experiments/**/vessel_split.csv
+/outputs/experiments/**/cv_assignments.csv
+/outputs/experiments/**/calibration_assignments.csv
+/outputs/experiments/**/selection_*_assignments.csv
+/outputs/experiments/**/*probabilities.npy
 
 # Local secrets and OS files
 .env

@@ -1,0 +1,26 @@
+{
+  "seed": 42,
+  "repetitions": 2000,
+  "vessels": 1475,
+  "rows": 707233,
+  "method": "paired percentile bootstrap resampling vessels, retaining all their rows",
+  "scope": "conditional uncertainty on the inspected development holdout, not independent test validation",
+  "accuracy": {
+    "previous": 0.617720044172147,
+    "current": 0.6177723607354295,
+    "delta": 5.231656328252843e-05,
+    "paired_vessel_95pct_interval": [
+      -0.011569990771191082,
+      0.010715585558360536
+    ]
+  },
+  "macro_f1": {
+    "previous": 0.6103701668697259,
+    "current": 0.6027356930278936,
+    "delta": -0.0076344738418322455,
+    "paired_vessel_95pct_interval": [
+      -0.02722557915085746,
+      0.008501023821281295
+    ]
+  }
+}

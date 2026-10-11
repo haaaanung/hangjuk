@@ -1,0 +1,21 @@
+{
+  "run": "behavior_v2_fast",
+  "candidate": "behavior_sqrt",
+  "cv_macro_f1_mean": 0.563177337449139,
+  "criterion": "highest mean vessel-grouped CV macro-F1",
+  "sources": [
+    {
+      "run": "behavior_v2_fast",
+      "summary_sha256": "363c316d09a33df89c31bc8529e049a1e5772e284ce270a0378b04bff97fd1f2"
+    },
+    {
+      "run": "spatial_v3",
+      "summary_sha256": "91401e61f1283536c266bc349035c90ecc53bd02988c1ec59737a1e0e7daf971"
+    },
+    {
+      "run": "regularized_v4",
+      "summary_sha256": "5adf2d0b77b90545b8e986f69b8b3317532edbba7646bcdc4f432b6a1bbcda23"
+    }
+  ],
+  "note": "Selection uses internal CV; external holdout was previously inspected in earlier development"
+}

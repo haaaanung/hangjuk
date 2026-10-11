@@ -1,0 +1,23 @@
+{
+  "folds": 5,
+  "variants": [
+    "control",
+    "compact_24",
+    "compact_24_regularized",
+    "compact_spatial_regularized"
+  ],
+  "feature_budget": 24,
+  "threads": 4,
+  "seed": 42,
+  "lightgbm": "4.7.0",
+  "sklearn": "1.9.1",
+  "source": "d3540b74f5e2332813121f64486a94d9d5bc2b32384cc3b477c0928a4bb6a699",
+  "code": {
+    "14_compact_model.py": "66198a6378b15572603e1f3cce560d46680fbbe19d01725af159d784d6ee14f3",
+    "src/compact_features.py": "e6a967cbc41b1ee4dfa3808e6e0a19b2d0ff29d681a69e943442ee865f049b5d",
+    "src/spatial_embedding.py": "046ed75dc615e6cb79d46cefe0108a2312fff158f22bd6bb043423dc8427c4b9",
+    "11_refine_decisions.py": "8e36173b4191ed978344d898297945288dc4d26092fe8bdc834bd0d2c4639ae7",
+    "04_improve.py": "fe9815de37a00f42460adf34f27f814619ab83df555a74fe7c4cad66d2e036d5",
+    "src/improved_training.py": "f279ddad02f0384a226dadbf80f40dfc1989afbc07fc0c61a90fbf5d968a4959"
+  }
+}

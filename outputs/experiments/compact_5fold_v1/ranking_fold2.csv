@@ -1,0 +1,164 @@
+﻿feature,meaning,training_gain,selected
+behavior_past_std_active_lat,이전 날짜까지 표준편차: 활동 조건 관측의 위도,1442989.4722037315,True
+past_std_center_lat,이전 날짜까지 표준편차: 항적 평균 위도,1336147.5495140553,True
+behavior_past_mean_quiet_lon,이전 날짜까지 평균: 공간 분산 20m 미만 관측의 경도,591863.0561947823,True
+behavior_past_mean_quiet_lat,이전 날짜까지 평균: 공간 분산 20m 미만 관측의 위도,532901.3350973129,True
+behavior_past_mean_active_straightness,이전 날짜까지 평균: 활동 조건 관측의 직선성,428382.64596295357,True
+behavior_past_mean_active_lat,이전 날짜까지 평균: 활동 조건 관측의 위도,351667.5431756973,True
+past_mean_center_lon,이전 날짜까지 평균: 항적 평균 경도,302682.8926708698,True
+behavior_past_mean_active_lon,이전 날짜까지 평균: 활동 조건 관측의 경도,302364.6037592888,True
+past_mean_center_lat,이전 날짜까지 평균: 항적 평균 위도,280064.5026974678,True
+center_lon,항적 평균 경도,277768.9565346241,True
+behavior_past_mean_active_mean_direction_change_deg,이전 날짜까지 평균: 활동 조건 관측의 평균 방향 변화각,242741.45406007767,True
+behavior_past_mean_active_duplicate_ratio,이전 날짜까지 평균: 활동 조건 관측의 중복 좌표 비율,240529.91053414345,True
+past_mean_daily_active_count,이전 날짜까지 평균: 하루 활동 조건 관측 수,231934.94825649261,True
+center_lat,항적 평균 위도,224447.74349975586,True
+recent30_active_lon,이전 30일 평균: 활동 조건 관측의 경도,210177.1741399765,True
+recent30_active_lat,이전 30일 평균: 활동 조건 관측의 위도,203452.23093605042,True
+behavior_past_mean_active_hour_8,이전 날짜까지 평균: 활동 조건 관측의 8시 이상 12시 미만 관측 비율,202688.22317433357,True
+behavior_past_std_active_lon,이전 날짜까지 표준편차: 활동 조건 관측의 경도,186793.82349348068,True
+behavior_past_mean_active_hour_4,이전 날짜까지 평균: 활동 조건 관측의 4시 이상 8시 미만 관측 비율,170256.9754538536,True
+behavior_past_std_active_straightness,이전 날짜까지 표준편차: 활동 조건 관측의 직선성,168947.3566622734,True
+behavior_past_mean_active_hour_20,이전 날짜까지 평균: 활동 조건 관측의 20시 이상 24시 미만 관측 비율,164617.31644153595,True
+past_mean_num_segments,이전 날짜까지 평균: 선분 수,160339.89157915115,True
+past_mean_daily_lon_std,이전 날짜까지 평균: 하루 경도 표준편차,152902.9597887993,True
+past_mean_daily_observation_count,이전 날짜까지 평균: 하루 관측 수,145586.539604187,True
+behavior_past_std_active_duplicate_ratio,이전 날짜까지 표준편차: 활동 조건 관측의 중복 좌표 비율,143539.1783838272,False
+past_mean_daily_lat_std,이전 날짜까지 평균: 하루 위도 표준편차,141287.2525241375,False
+behavior_past_mean_active_turn_rate_45,이전 날짜까지 평균: 활동 조건 관측의 45도 이상 회전 비율,137622.6985244751,False
+past_std_daily_active_count,이전 날짜까지 표준편차: 하루 활동 조건 관측 수,133584.9075241089,False
+past_mean_hour_sin,이전 날짜까지 평균: 시간대 sin,131824.94122862816,False
+behavior_past_mean_active_hour_16,이전 날짜까지 평균: 활동 조건 관측의 16시 이상 20시 미만 관측 비율,129802.69366431236,False
+past_std_num_segments,이전 날짜까지 표준편차: 선분 수,123331.53734111786,False
+past_mean_hour_cos,이전 날짜까지 평균: 시간대 cos,119495.34424877167,False
+behavior_past_mean_active_hour_12,이전 날짜까지 평균: 활동 조건 관측의 12시 이상 16시 미만 관측 비율,118268.44830703735,False
+past_std_straightness,이전 날짜까지 표준편차: 직선성,112400.94800710678,False
+behavior_past_std_smooth_straightness,이전 날짜까지 표준편차: 단순화한 경로 직선성,112112.48513174057,False
+past_std_daily_lon_std,이전 날짜까지 표준편차: 하루 경도 표준편차,110031.48161411285,False
+behavior_past_mean_active_hour_0,이전 날짜까지 평균: 활동 조건 관측의 0시 이상 4시 미만 관측 비율,109975.79606366158,False
+behavior_past_mean_jitter_distance_fraction,이전 날짜까지 평균: 경로 단순화로 줄어든 거리 비율,109879.74569702148,False
+behavior_past_mean_heading_axial_concentration,이전 날짜까지 평균: 이동 방향축 집중도,108686.44994211197,False
+behavior_past_std_active_turn_rate_45,이전 날짜까지 표준편차: 활동 조건 관측의 45도 이상 회전 비율,105560.95940804482,False
+past_std_total_turn_deg,이전 날짜까지 표준편차: 방향 변화각 합,105010.35306453705,False
+past_std_bbox_width_m,이전 날짜까지 표준편차: 항적 영역 폭(m),102762.71869540215,False
+behavior_past_std_quiet_lat,이전 날짜까지 표준편차: 공간 분산 20m 미만 관측의 위도,102393.05305051804,False
+behavior_past_std_active_mean_direction_change_deg,이전 날짜까지 표준편차: 활동 조건 관측의 평균 방향 변화각,101463.37358570099,False
+past_std_duplicate_ratio,이전 날짜까지 표준편차: 중복 좌표 비율,101088.83478403091,False
+past_std_daily_lat_std,이전 날짜까지 표준편차: 하루 위도 표준편차,100541.43412780762,False
+behavior_past_std_heading_axial_concentration,이전 날짜까지 표준편차: 이동 방향축 집중도,99223.34202098846,False
+past_std_hour_cos,이전 날짜까지 표준편차: 시간대 cos,96697.94179391861,False
+past_mean_duplicate_ratio,이전 날짜까지 평균: 중복 좌표 비율,94391.42432546616,False
+past_std_num_points,이전 날짜까지 표준편차: 좌표 점 수,94323.60838842392,False
+past_std_num_direction_changes,이전 날짜까지 표준편차: 유효 방향 변화 수,94284.44585442543,False
+past_mean_max_direction_change_deg,이전 날짜까지 평균: 최대 방향 변화각,94199.75819420815,False
+behavior_past_mean_smooth_straightness,이전 날짜까지 평균: 단순화한 경로 직선성,94007.88602018356,False
+behavior_past_mean_smooth_turn_rate_45,이전 날짜까지 평균: 단순화한 경로 45도 이상 회전 비율,93257.57960987091,False
+past_std_spatial_spread_m,이전 날짜까지 표준편차: 과거 정박 유사 관측 중심과 학습 공간 중심 m의 RBF 유사도,91707.21646595001,False
+behavior_past_mean_distance_cdf_5000,이전 날짜까지 평균: 이동거리 5000m 이하 비율,91664.25780725479,False
+past_std_zero_step_ratio,이전 날짜까지 표준편차: 이동거리 0인 인접점 비율,87525.50743985176,False
+behavior_past_mean_distance_cdf_10,이전 날짜까지 평균: 이동거리 10m 이하 비율,84966.66016769409,False
+behavior_past_std_quiet_lon,이전 날짜까지 표준편차: 공간 분산 20m 미만 관측의 경도,84430.2611978054,False
+past_std_center_lon,이전 날짜까지 표준편차: 항적 평균 경도,81104.27021360397,False
+behavior_past_std_smooth_direction_changes,이전 날짜까지 표준편차: 단순화한 경로 유효 회전 수,80841.55240058899,False
+past_std_bbox_height_m,이전 날짜까지 표준편차: 항적 영역 높이(m),79915.85650849342,False
+past_mean_num_direction_changes,이전 날짜까지 평균: 유효 방향 변화 수,79736.83429813385,False
+recent7_active_lat,이전 7일 평균: 활동 조건 관측의 위도,79081.02178764343,False
+past_std_total_distance_m,이전 날짜까지 표준편차: 이동거리(m),78718.5664768219,False
+recent7_active_lon,이전 7일 평균: 활동 조건 관측의 경도,77245.11072158813,False
+past_mean_num_points,이전 날짜까지 평균: 좌표 점 수,75646.25175094604,False
+past_mean_spatial_spread_m,이전 날짜까지 평균: 과거 정박 유사 관측 중심과 학습 공간 중심 m의 RBF 유사도,75021.06613111496,False
+behavior_past_std_log_num_points,이전 날짜까지 표준편차: log1p 변환: 좌표 점 수,74014.54825305939,False
+past_std_turn_count_45,이전 날짜까지 표준편차: 45도 이상 회전 횟수,72955.33078193665,False
+behavior_past_mean_shape_elongation,이전 날짜까지 평균: 항적의 길쭉한 정도,70633.6266670227,False
+past_mean_zero_step_ratio,이전 날짜까지 평균: 이동거리 0인 인접점 비율,69824.79641771317,False
+past_std_hour_sin,이전 날짜까지 표준편차: 시간대 sin,67616.6522321701,False
+past_std_segment_chord_sum_m,이전 날짜까지 표준편차: 선분별 시작·끝 직선거리 합(m),66455.41212844849,False
+past_mean_daily_distance_sum,이전 날짜까지 평균: 하루 이동거리 합(log1p),66328.75100040436,False
+past_mean_daily_distance_max,이전 날짜까지 평균: 하루 최대 이동거리(log1p),64978.93475794792,False
+behavior_past_mean_smooth_mean_turn_deg,이전 날짜까지 평균: 단순화한 경로 평균 회전각,64702.5698595047,False
+past_mean_daily_spread_max,이전 날짜까지 평균: 하루 최대 공간 분산(log1p),63561.76546239853,False
+past_std_mean_direction_change_deg,이전 날짜까지 표준편차: 평균 방향 변화각,63393.49109220505,False
+behavior_past_std_shape_elongation,이전 날짜까지 표준편차: 항적의 길쭉한 정도,62857.63012266159,False
+past_mean_bbox_height_m,이전 날짜까지 평균: 항적 영역 높이(m),62772.788298130035,False
+past_std_max_step_m,이전 날짜까지 표준편차: 최대 인접점 이동거리(m),62627.316756248474,False
+past_std_turn_rate_45,이전 날짜까지 표준편차: 45도 이상 회전 비율,62023.13433265686,False
+past_std_daily_distance_median,이전 날짜까지 표준편차: 하루 이동거리 중앙값(log1p),61012.16760587692,False
+past_mean_bbox_width_m,이전 날짜까지 평균: 항적 영역 폭(m),60194.680292606354,False
+past_std_max_direction_change_deg,이전 날짜까지 표준편차: 최대 방향 변화각,60189.16607904434,False
+behavior_past_std_smooth_mean_turn_deg,이전 날짜까지 표준편차: 단순화한 경로 평균 회전각,59209.85571146011,False
+past_mean_mean_direction_change_deg,이전 날짜까지 평균: 평균 방향 변화각,58233.43290042877,False
+behavior_past_mean_smooth_direction_changes,이전 날짜까지 평균: 단순화한 경로 유효 회전 수,57514.30619573593,False
+past_mean_daily_distance_median,이전 날짜까지 평균: 하루 이동거리 중앙값(log1p),56942.11987686157,False
+past_std_daily_distance_sum,이전 날짜까지 표준편차: 하루 이동거리 합(log1p),56329.05678939819,False
+past_std_daily_observation_count,이전 날짜까지 표준편차: 하루 관측 수,54603.59755373001,False
+behavior_past_std_smooth_turn_rate_45,이전 날짜까지 표준편차: 단순화한 경로 45도 이상 회전 비율,54171.684566259384,False
+behavior_past_mean_log_num_points,이전 날짜까지 평균: log1p 변환: 좌표 점 수,51048.72905635834,False
+past_observed_days,이전 관측일 수,49116.459864616394,False
+past_mean_max_step_m,이전 날짜까지 평균: 최대 인접점 이동거리(m),48535.52111840248,False
+past_mean_straightness,이전 날짜까지 평균: 직선성,48236.54440975189,False
+past_mean_total_turn_deg,이전 날짜까지 평균: 방향 변화각 합,46338.103865623474,False
+behavior_past_std_smooth_distance_m,이전 날짜까지 표준편차: 단순화한 경로 길이,45544.373426914215,False
+past_std_daily_spread_max,이전 날짜까지 표준편차: 하루 최대 공간 분산(log1p),45115.713849544525,False
+behavior_past_mean_distance_cdf_20000,이전 날짜까지 평균: 이동거리 20000m 이하 비율,45049.399945259094,False
+past_mean_turn_rate_45,이전 날짜까지 평균: 45도 이상 회전 비율,42231.56824398041,False
+past_mean_turn_count_45,이전 날짜까지 평균: 45도 이상 회전 횟수,35003.12127447128,False
+month,월,34384.67369532585,False
+behavior_past_std_log_spatial_spread_m,이전 날짜까지 표준편차: log1p 변환: 과거 정박 유사 관측 중심과 학습 공간 중심 m의 RBF 유사도,34002.04663801193,False
+behavior_past_std_log_total_distance_m,이전 날짜까지 표준편차: log1p 변환: 이동거리(m),32939.02975654602,False
+past_mean_segment_chord_sum_m,이전 날짜까지 평균: 선분별 시작·끝 직선거리 합(m),31266.119329214096,False
+past_mean_total_distance_m,이전 날짜까지 평균: 이동거리(m),30392.083680152893,False
+behavior_past_mean_log_total_distance_m,이전 날짜까지 평균: log1p 변환: 이동거리(m),28137.739778518677,False
+behavior_past_std_log_max_step_m,이전 날짜까지 표준편차: log1p 변환: 최대 인접점 이동거리(m),27112.041021823883,False
+behavior_past_mean_distance_cdf_100,이전 날짜까지 평균: 이동거리 100m 이하 비율,25077.240196704865,False
+behavior_past_mean_log_spatial_spread_m,이전 날짜까지 평균: log1p 변환: 과거 정박 유사 관측 중심과 학습 공간 중심 m의 RBF 유사도,22016.553748369217,False
+behavior_past_mean_distance_cdf_1000,이전 날짜까지 평균: 이동거리 1000m 이하 비율,21039.127471923828,False
+behavior_past_mean_small_extent_fraction,이전 날짜까지 평균: 공간 분산 20m 미만 비율,20475.33495616913,False
+past_std_daily_distance_max,이전 날짜까지 표준편차: 하루 최대 이동거리(log1p),20324.85458135605,False
+behavior_past_mean_smooth_distance_m,이전 날짜까지 평균: 단순화한 경로 길이,18770.052294254303,False
+past_observations,이전 날짜까지 관측 수,18505.102056264877,False
+behavior_past_mean_active_fraction,이전 날짜까지 평균: 활동 조건 충족 비율,18110.045479297638,False
+recent30_smooth_straightness,이전 30일 평균: 단순화한 경로 직선성,13321.198512077332,False
+recent30_heading_axial_concentration,이전 30일 평균: 이동 방향축 집중도,13083.828384876251,False
+behavior_past_mean_log_max_step_m,이전 날짜까지 평균: log1p 변환: 최대 인접점 이동거리(m),12222.523691177368,False
+recent30_log_spatial_spread_m,이전 30일 평균: log1p 변환: 과거 정박 유사 관측 중심과 학습 공간 중심 m의 RBF 유사도,10229.768826007843,False
+recent30_active_fraction,이전 30일 평균: 활동 조건 충족 비율,5973.907881736755,False
+spatial_spread_m,과거 정박 유사 관측 중심과 학습 공간 중심 m의 RBF 유사도,4378.55882358551,False
+recent30_log_total_distance_m,이전 30일 평균: log1p 변환: 이동거리(m),2884.01682806015,False
+smooth_mean_turn_deg,단순화한 경로 평균 회전각,2680.069346189499,False
+bbox_height_m,항적 영역 높이(m),1940.3329539299011,False
+duplicate_ratio,중복 좌표 비율,1850.5942690372467,False
+recent7_smooth_straightness,이전 7일 평균: 단순화한 경로 직선성,1622.4522206783295,False
+recent30_small_extent_fraction,이전 30일 평균: 공간 분산 20m 미만 비율,1285.5067086219788,False
+recent7_log_spatial_spread_m,이전 7일 평균: log1p 변환: 과거 정박 유사 관측 중심과 학습 공간 중심 m의 RBF 유사도,1163.492763519287,False
+hour_cos,시간대 cos,1083.9317009449005,False
+recent7_log_total_distance_m,이전 7일 평균: log1p 변환: 이동거리(m),1001.866406917572,False
+mean_direction_change_deg,평균 방향 변화각,899.566731929779,False
+recent7_heading_axial_concentration,이전 7일 평균: 이동 방향축 집중도,824.8813982009888,False
+smooth_direction_changes,단순화한 경로 유효 회전 수,781.6930379867554,False
+num_points,좌표 점 수,640.5041265487671,False
+zero_step_ratio,이동거리 0인 인접점 비율,634.7099123001099,False
+recent7_small_extent_fraction,이전 7일 평균: 공간 분산 20m 미만 비율,593.5607051849365,False
+heading_axial_concentration,이동 방향축 집중도,493.9862289428711,False
+hour_sin,시간대 sin,488.2544083595276,False
+num_direction_changes,유효 방향 변화 수,475.8018615245819,False
+bbox_width_m,항적 영역 폭(m),465.5034203529358,False
+straightness,직선성,419.92793822288513,False
+distance_per_spread,이동거리/공간 분산,419.07621240615845,False
+mean_step_m,평균 인접점 이동거리(m),377.08867025375366,False
+days_since_previous_date,직전 관측일과의 날짜 간격,335.25415325164795,False
+max_direction_change_deg,최대 방향 변화각,317.2347836494446,False
+shape_elongation,항적의 길쭉한 정도,295.0464928150177,False
+jitter_distance_fraction,경로 단순화로 줄어든 거리 비율,290.99624848365784,False
+points_per_segment,선분당 점 수,282.7036943435669,False
+max_step_m,최대 인접점 이동거리(m),235.40360260009766,False
+bbox_aspect,항적 영역 가로/세로 비율,225.2867705821991,False
+recent7_active_fraction,이전 7일 평균: 활동 조건 충족 비율,182.11470222473145,False
+turn_rate_45,45도 이상 회전 비율,161.66965007781982,False
+total_turn_deg,방향 변화각 합,149.5580883026123,False
+num_segments,선분 수,148.7574498653412,False
+smooth_straightness,단순화한 경로 직선성,126.06799936294556,False
+segment_chord_sum_m,선분별 시작·끝 직선거리 합(m),116.56187963485718,False
+total_distance_m,이동거리(m),87.46717071533203,False
+smooth_distance_m,단순화한 경로 길이,79.1513102054596,False
+smooth_turn_rate_45,단순화한 경로 45도 이상 회전 비율,59.752100467681885,False
+turn_count_45,45도 이상 회전 횟수,12.801499843597412,False

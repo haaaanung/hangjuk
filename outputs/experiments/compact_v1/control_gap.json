@@ -1,0 +1,14 @@
+{
+  "train_sample_rows": 30000,
+  "train_sample": {
+    "accuracy": 0.9344666666666667,
+    "macro_f1": 0.9464893795660151
+  },
+  "validation": {
+    "accuracy": 0.617720044172147,
+    "macro_f1": 0.6103701668697259,
+    "vessel_equal_accuracy": 0.5734438543058445,
+    "vessel_equal_macro_f1": 0.541329557842414
+  },
+  "scope": "Training sample vs full development validation; descriptive gap"
+}

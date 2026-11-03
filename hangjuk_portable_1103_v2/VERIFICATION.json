@@ -1,0 +1,25 @@
+{
+  "status": "passed",
+  "standalone_input": "official 1103_v2 ZIP and included trained model only",
+  "research_cache_required": false,
+  "raw_feature_parity": {
+    "rows": 1000,
+    "features": 34,
+    "maximum_difference": 0.0
+  },
+  "full_raw_zip_run_seconds": 68.4,
+  "reference_workbook_comparison": {
+    "테스트A": {
+      "rows": 100,
+      "all_cells_exactly_equal": true,
+      "maximum_numeric_difference": 0.0
+    },
+    "테스트B": {
+      "rows": 100,
+      "all_cells_exactly_equal": true,
+      "maximum_numeric_difference": 0.0
+    }
+  },
+  "generated_excel_count": 1,
+  "trained_model_sha256": "6fc2e2c5884adf3839054169b70169fcea8649a59159577831159a93473aa7b9"
+}

@@ -1,0 +1,6 @@
+{
+  "dataset": "1103_v2",
+  "template_sha256": "035fbced3dd46319f2506ab9b8bbb4f1756712ae3d94ecf6953d3587e056609c",
+  "testA_vessels": 100,
+  "testB_vessels": 100
+}

@@ -1,0 +1,26 @@
+{
+  "status": "complete",
+  "model": "Bathy14 + IC in South, L127 elsewhere; all-row mean",
+  "testA_rows": 22733,
+  "testA_vessels": 100,
+  "south_rows": 8439,
+  "south_vessels": 55,
+  "changed_vs_existing_submission": 16,
+  "changed_vs_L127_allmean": 8,
+  "class_counts": {
+    "연안복합": 57,
+    "자망": 32,
+    "채낚기연승낚시": 3,
+    "통발": 8
+  },
+  "testB_cell_values_unchanged": true,
+  "submission_sha256": "1077a9f3c7ec67fc3f7c1b4bb3712a20f2d623500c8e16060a4433ef0b3f82b0",
+  "seconds": 65.5,
+  "test_score": null,
+  "aggregation_note": "Existing submission uses active-row mean; new candidate uses the all-row mean fixed during validation.",
+  "bathy_extractor_AST_equals_training": true,
+  "original_baseline_artifacts_unchanged": true,
+  "validation_status": "format_and_pipeline_checks_only; full-period 5fold for exact configuration pending",
+  "interaction_constraint_all_tree_paths_checked": true,
+  "tree_split_nodes_checked": 176400
+}

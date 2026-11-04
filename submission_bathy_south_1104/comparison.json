@@ -1,0 +1,702 @@
+[
+  {
+    "rfid_id": 36111894,
+    "old": "연안복합",
+    "new": "자망",
+    "probability": 0.48574736742111246,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36112256,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.6336490295511104,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36001376,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.9358911172507907,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 31011023,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.488321971303473,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 31004911,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.47016785527606936,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36306212,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.9228014158785162,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36004634,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.9271998699123755,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36102984,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.45775115803474065,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 32400280,
+    "old": "자망",
+    "new": "연안복합",
+    "probability": 0.597871551131736,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36303527,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.8641680481891768,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 31009972,
+    "old": "연안복합",
+    "new": "통발",
+    "probability": 0.642298101794156,
+    "baseline_allmean": "통발"
+  },
+  {
+    "rfid_id": 31014772,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.5653738906906702,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36001959,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.5396482486949008,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 36001221,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.5892738831083247,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 32200532,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.7761833245965875,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36303615,
+    "old": "통발",
+    "new": "통발",
+    "probability": 0.4484317485856113,
+    "baseline_allmean": "통발"
+  },
+  {
+    "rfid_id": 31015321,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.6713044529189497,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36101530,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.5277150747481105,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 31010366,
+    "old": "통발",
+    "new": "연안복합",
+    "probability": 0.6675665048694223,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36015107,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.9258533072038978,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 36111082,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.6670885774208003,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36106807,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.41276905047754264,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36103638,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.488231581726412,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36006024,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.44303662893262363,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 36306771,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.6651990569964965,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 32300258,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.8800282462304754,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 36306319,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.5033428066014782,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 36103084,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.930442077837361,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 35200661,
+    "old": "채낚기연승낚시",
+    "new": "자망",
+    "probability": 0.5525773685329564,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 36313334,
+    "old": "연안복합",
+    "new": "통발",
+    "probability": 0.47866524156398005,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 31001084,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.5244005153606266,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 36002097,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.7289475320310159,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 31600045,
+    "old": "연안복합",
+    "new": "자망",
+    "probability": 0.49974912372470176,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 33200812,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.713401410632851,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 32100400,
+    "old": "자망",
+    "new": "연안복합",
+    "probability": 0.43003298933811474,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 31015984,
+    "old": "연안복합",
+    "new": "자망",
+    "probability": 0.5593841064969663,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 36014760,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.6004374937378899,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36306395,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.9559676484789417,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 36016225,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.5944293495777987,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 31010307,
+    "old": "자망",
+    "new": "연안복합",
+    "probability": 0.3854204841142075,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 36305173,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.615670064176494,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36108183,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.5269195869944617,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36105899,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.5326041057017592,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36316168,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.7959468759430319,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 36105572,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.3987861075213592,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36305289,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.8166035593222818,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 36008076,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.4928672178832026,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 33300310,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.7853976320949244,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 36109066,
+    "old": "연안복합",
+    "new": "자망",
+    "probability": 0.5426488490166664,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36301698,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.688292654895266,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 31015596,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.4974401894506765,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36112452,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.5891251327126441,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36105401,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.5308262367514489,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36009546,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.5760295066250168,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36105184,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.40047951552863026,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 36012880,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.4988683722996732,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 32100443,
+    "old": "채낚기연승낚시",
+    "new": "채낚기연승낚시",
+    "probability": 0.9057373719704902,
+    "baseline_allmean": "채낚기연승낚시"
+  },
+  {
+    "rfid_id": 31014934,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.8391264168443555,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36303112,
+    "old": "통발",
+    "new": "통발",
+    "probability": 0.4901037845474788,
+    "baseline_allmean": "통발"
+  },
+  {
+    "rfid_id": 32300583,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.8291784207872421,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 31002733,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.6490299893939127,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36313187,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.39516574262065635,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 36004927,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.4967815844790422,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 36105605,
+    "old": "자망",
+    "new": "연안복합",
+    "probability": 0.463999750813756,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 35100026,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.4514326872704354,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36104287,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.5741724824489268,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 31004142,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.4707511558320655,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 31703285,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.39972453104786926,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 31100246,
+    "old": "채낚기연승낚시",
+    "new": "채낚기연승낚시",
+    "probability": 0.48680233737687206,
+    "baseline_allmean": "채낚기연승낚시"
+  },
+  {
+    "rfid_id": 36112114,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.3432927838090651,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 31006052,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.582936825373688,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 31000037,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.4850133365545427,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 36008096,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.8576249690961465,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36005762,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.6996112147492195,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36013801,
+    "old": "채낚기연승낚시",
+    "new": "채낚기연승낚시",
+    "probability": 0.6118545680445489,
+    "baseline_allmean": "채낚기연승낚시"
+  },
+  {
+    "rfid_id": 31815261,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.5684411818086448,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 35200172,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.5859810403809778,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36005986,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.5001935010846909,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36304626,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.7998955306290094,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 36311151,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.8586611222335536,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 33201484,
+    "old": "통발",
+    "new": "통발",
+    "probability": 0.43386619407328947,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 31008455,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.39601324518524705,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 31701703,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.5627585281468483,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36007865,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.8231498511618711,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36305615,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.6201866202192629,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 31009358,
+    "old": "연안복합",
+    "new": "자망",
+    "probability": 0.4930566540668122,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36301356,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.8161737509402103,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36009463,
+    "old": "통발",
+    "new": "통발",
+    "probability": 0.5019901937934742,
+    "baseline_allmean": "통발"
+  },
+  {
+    "rfid_id": 36000389,
+    "old": "자망",
+    "new": "연안복합",
+    "probability": 0.6249841318367728,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 36000087,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.7716388379117576,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36303121,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.5633292319445646,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36006637,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.644335073781551,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36102213,
+    "old": "통발",
+    "new": "통발",
+    "probability": 0.5119554597215862,
+    "baseline_allmean": "통발"
+  },
+  {
+    "rfid_id": 36301495,
+    "old": "자망",
+    "new": "연안복합",
+    "probability": 0.48447204231337626,
+    "baseline_allmean": "연안복합"
+  },
+  {
+    "rfid_id": 36102949,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.48446590566693665,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 32100678,
+    "old": "채낚기연승낚시",
+    "new": "자망",
+    "probability": 0.47839801336724075,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 36000408,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.7188474154630997,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 31001478,
+    "old": "통발",
+    "new": "통발",
+    "probability": 0.4381273661894162,
+    "baseline_allmean": "통발"
+  },
+  {
+    "rfid_id": 35100035,
+    "old": "자망",
+    "new": "자망",
+    "probability": 0.6847272938644121,
+    "baseline_allmean": "자망"
+  },
+  {
+    "rfid_id": 31011137,
+    "old": "연안복합",
+    "new": "연안복합",
+    "probability": 0.44480972628893134,
+    "baseline_allmean": "연안복합"
+  }
+]

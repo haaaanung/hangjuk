@@ -1,0 +1,6 @@
+# Preserve model bytes across Windows and Unix checkouts: JSON stores SHA-256.
+model/*.txt binary
+*.npy binary
+*.xlsx binary
+*.bin binary
+*.pdf binary

@@ -1,0 +1,38 @@
+{
+  "frozen_at": "2026-11-04",
+  "model": "L127 + 14 current-row GEBCO bathymetry features + interaction constraints",
+  "south_rule": {
+    "min_lon": 126.5,
+    "max_lon_exclusive": 129.3,
+    "max_lat_exclusive": 35.3
+  },
+  "aggregation": "all-row probability mean",
+  "train_folds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "fold0_used": false,
+  "bathy_features": [
+    "bathy_depth_mean",
+    "bathy_depth_median",
+    "bathy_depth_min",
+    "bathy_depth_max",
+    "bathy_depth_std",
+    "bathy_slope_mean",
+    "bathy_slope_max",
+    "bathy_steep_frac_05",
+    "bathy_steep_frac_2",
+    "bathy_land_frac",
+    "bathy_ddepth_mean",
+    "bathy_direct_frac",
+    "bathy_n_cells",
+    "bathy_depth_range"
+  ],
+  "testB": "preserve baseline submission cell values",
+  "selection_limit": "South routing was selected post hoc on exposed development folds; no actual test gain claimed",
+  "validation_status": "pending_exact_configuration_full_period_5fold",
+  "submission_status": "hold_candidate_archive_only"
+}
